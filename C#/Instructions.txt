@@ -1,8 +1,7 @@
-William Covington
 CPSC 323 Compilers
 Assignment 1 C# Final Submission
 
-How to Run:
+How to Run (Windows):
 1. Extract the compressed folder to the directory of your choosing.
 2. Open the Windows 10 Command Prompt
 3. Navigate to the location where the folder was extracted.
