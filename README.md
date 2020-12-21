@@ -5,4 +5,4 @@ Prof. Le
 
 Grade Recieved: 98%
 
-This project includes C++ and C# versions. Instructions are included in each versinos subfolders on how to compile and run.
+This project includes C++ and C# versions. Instructions are included in each version's subfolders on how to compile and run. ENJOY.
