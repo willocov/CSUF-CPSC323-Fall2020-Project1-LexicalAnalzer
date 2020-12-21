@@ -1,0 +1,15 @@
+William Covington
+CPSC 323 Compilers
+Assignement 1 Final Submission
+
+How to Run:
+1. Extract the compressed folder to a location of your choice.
+2. Open the Windows 10 Command Prompt
+3. Navigate to the directory where the files are located. 
+4. Navigate inside the "exe" directory (ex. LexAnalyzerEarlySubmission/C++/exe)
+5. Run the exe file from the command line and pass in the input and output files as parameters.
+	USAGE: "CPSC 323 Lexical Analyzer.exe" [InputFileName] [OutputFileName]
+	Example: "CPSC 323 Lexical Analyzer.exe" sample.txt output.txt
+
+Additional Notes:
+-The program will overwrite (not append) the output file if it already exists in the directory.
